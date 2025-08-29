@@ -1,15 +1,16 @@
-run in terminal:
+open folder in cmd 
 
-npm install
+run these commands:
 
-npm start
+"npm install"
 
+then
 
-
+"npm start"
 
 To play. 
 
-Start menu has controls, game is in beta
+Start menu has controls, game is in beta...
 
 
 Enjoy.
