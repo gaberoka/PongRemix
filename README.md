@@ -1,3 +1,7 @@
+If you don't know how to run this in a terminal
+
+
+
 download .zip from google drive link
 
 Then unzip the folder
